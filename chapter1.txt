@@ -9,3 +9,6 @@ to go back to the previous version of the file: git checkout file.ext
 git remote add origin https://github.com/psakshi-989/Story.git to add local repo
 git push -u origin master to add the files in github repo
 git clone ./url will download the files of that project on the github
+git branch name-of-the-branch will create a new branch for the the current master 
+git branch shows the branches that are there and * shows which branch are we currently in
+git chehckout name-of-the-branch changes the current branch to name-of-the-branch..
